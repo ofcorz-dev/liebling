@@ -34,7 +34,8 @@
 
   &.filled {
     border-radius: 5px;
-    background-color: $white;
+    background-color: var(--ghost-accent-color);
+    color: $white;
   }
 
   &.block {
